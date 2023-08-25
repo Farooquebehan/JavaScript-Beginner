@@ -1,0 +1,13 @@
+JavaScript String Comparison
+All the comparison operators above can also be used on strings:
+
+Example
+let text1 = "A";
+let text2 = "B";
+let result = text1 < text2;
+//string addition
+The += assignment operator can also be used to add (concatenate) strings:
+
+Example
+let text1 = "What a very ";
+text1 += "nice day";
